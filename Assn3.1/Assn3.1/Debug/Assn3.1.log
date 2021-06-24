@@ -1,0 +1,6 @@
+﻿  Assn3.1.cpp
+c:\users\amanp\source\repos\assn3.1\assn3.1\drawable.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\amanp\source\repos\assn3.1\assn3.1\assn3.1.cpp(98): warning C4838: conversion from 'unsigned int' to 'unsigned char' requires a narrowing conversion
+  Drawing.cpp
+  Generating Code...
+  Assn3.1.vcxproj -> C:\Users\amanp\source\repos\Assn3.1\Debug\Assn3.1.exe

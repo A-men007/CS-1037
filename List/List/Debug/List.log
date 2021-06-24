@@ -1,0 +1,19 @@
+﻿  List.cpp
+c:\users\amanp\source\repos\list\list\list.h(90): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\amanp\source\repos\list\list\list.h(87): note: while compiling class template member function 'void List<unsigned int>::insert(unsigned int,Item)'
+          with
+          [
+              Item=unsigned int
+          ]
+  c:\users\amanp\source\repos\list\list\list.cpp(13): note: see reference to function template instantiation 'void List<unsigned int>::insert(unsigned int,Item)' being compiled
+          with
+          [
+              Item=unsigned int
+          ]
+  c:\users\amanp\source\repos\list\list\list.cpp(12): note: see reference to class template instantiation 'List<unsigned int>' being compiled
+c:\users\amanp\source\repos\list\list\list.h(130): warning C4018: '<': signed/unsigned mismatch
+  c:\users\amanp\source\repos\list\list\list.h(127): note: while compiling class template member function 'void List<unsigned int>::replaceContainer(void)'
+  c:\users\amanp\source\repos\list\list\list.h(89): note: see reference to function template instantiation 'void List<unsigned int>::replaceContainer(void)' being compiled
+  c:\users\amanp\source\repos\list\list\list.h(49): note: while compiling class template member function 'List<unsigned int>::List(unsigned int)'
+  c:\users\amanp\source\repos\list\list\list.cpp(12): note: see reference to function template instantiation 'List<unsigned int>::List(unsigned int)' being compiled
+  List.vcxproj -> C:\Users\amanp\source\repos\List\Debug\List.exe
